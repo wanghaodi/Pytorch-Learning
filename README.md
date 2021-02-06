@@ -5,7 +5,7 @@
 1.[超口碑|手把手教你洞悉PyTorch模型训练过程，彻底掌握pytorch基础原理！](https://mp.weixin.qq.com/s/_kGw4bKcZ7YFJLr8p4KJdQ) 
 
 2.[深入浅出Pytorch](https://wx32e0ad0076a9091c.h5.xiaoe-tech.com/v1/course/video/v_5e9e5f6ddcef2_TCLvUDOF?type=2&pro_id=p_5df0ad9a09d37_qYqVmt85) 
- 
+
 ## 课程学习入口
 
 2.[【随到随学】Pytorch框架班](https://wx32e0ad0076a9091c.h5.xiaoe-tech.com/v1/course/column/p_5df0ad9a09d37_qYqVmt85?type=3)  
@@ -24,7 +24,10 @@
 
 ### 🍬[作业讲解代码下载地址](https://github.com/greebear/pytorch-learning)
 
+作业视频讲解: https://space.bilibili.com/10410626
+
 ### 🍬[Week 1](https://github.com/JansonYuan/Pytorch-Camp/blob/master/Week1.md)
+
 1. Pytorch简介及环境配置
 2. Pytorch基础数据结构——张量
 3. 张量操作与线性回归
